@@ -45,7 +45,7 @@ const CheckAnagram = (w1, w2) => {
   return true; //O(1) time | //O(1) space
 };
 
-//O(n * m) time | //O(1)
+//O(n * m) time | //O(1) space
 
 let randomString1 = generateRandomString(2);
 let randomString2 = generateRandomString(2);
